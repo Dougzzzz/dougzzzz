@@ -1,8 +1,8 @@
 ### Olá Pessoas!!!!!
 
-- 🔭 Atualmente estou trabalhando com consultoria empresarial, mas busco uma migração para área de tecnologia, durante minha vida profissional já trabalhei na área, mas eram cargos específicos de suporte.
-- 🌱 Atualmente estou estudando Node e Next.js
-- 👯 Estou buscando oportunidades de estágio especialmente na área de desenvolvimento.
+- 🔭 Atualmente estou estagiando na Invent Software.
+- 🌱 Atualmente estou estudando c#
+  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougzzzz&layout=compact&theme=transparent)

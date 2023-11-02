@@ -1,7 +1,7 @@
 ### Olá Pessoas!!!!!
 
 - 🔭 Atualmente estou estagiando na Invent Software.
-- 🌱 Atualmente estou estudando c#
+- 🌱 Estou estudando c#
   
 
 

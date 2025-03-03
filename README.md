@@ -1,6 +1,6 @@
 ### Olá Pessoas!!!!!
 
-- 🔭 Atualmente estou estagiando na Invent Software.
+- 🔭 Atualmente estou trabalhando na Invent Software como tecnico de desenvolvimento de software, usando principalmente C# e JS com SAPUi5.
 - 🌱 Estou estudando c#
   
 

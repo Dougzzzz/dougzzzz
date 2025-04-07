@@ -1,7 +1,7 @@
 ### Olá Pessoas!!!!!
 
 - 🔭 Atualmente estou trabalhando na Invent Software como tecnico de desenvolvimento de software, usando principalmente C# e JS com SAPUi5.
-- 🌱 Estou estudando c#
+- 🌱 Estudando C# e Angular
   
 
 
